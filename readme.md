@@ -24,4 +24,6 @@ C помощью него куратор может видеть оплаты с
 ## Полезные ссылки
 
 Примеры работы с апи: https://github.com/StepicOrg/Stepik-API
+Документация к эндпоинту Платежи https://stepik.org/api/docs/#!/course-payments/Course_Payment_retrieve
+Документация к эндпоинту Курсы пользователя https://stepik.org/api/docs/#!/user-courses/User_Course_retrieve
 
